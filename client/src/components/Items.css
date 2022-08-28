@@ -1,0 +1,12 @@
+td{
+    transition: display 2s;
+}
+.hide{
+    display: none;
+}
+.idPerson{
+    cursor: pointer;
+}
+.show{
+    display: table-cell;
+}
